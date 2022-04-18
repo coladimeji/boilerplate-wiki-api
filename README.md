@@ -36,23 +36,32 @@ Clients Test Endpoint before download
 System Architecture
 
 Use Case Diagram
+![image](https://user-images.githubusercontent.com/32521595/163893364-1117122d-6adb-4c76-b289-61e2f797d176.png)
  
 
 Sequence Diagram
 
- 
+ ![image](https://user-images.githubusercontent.com/32521595/163893408-9492a90e-ce88-4a8c-90af-7583a923ef65.png)
+
+
 
 
 
 
 Boilerplate Wiki Heroku Mock-up
   
- 
+ ![image](https://user-images.githubusercontent.com/32521595/163893444-4daedd4f-cad1-4808-91bd-4d93ecce7fc0.png)
+
+![image](https://user-images.githubusercontent.com/32521595/163893470-bf8f3cea-a222-42dd-b304-197d1ab74f2a.png)
 
 
 Boilerplate Wiki Rapid API Mock-up
  
  
+![image](https://user-images.githubusercontent.com/32521595/163893484-be269d68-d3f2-4dfb-a961-9f315c87b101.png)
+
+
+![image](https://user-images.githubusercontent.com/32521595/163893512-ec6399b7-f56b-4a77-b6d7-60d1f3aa0a87.png)
 
 
 
