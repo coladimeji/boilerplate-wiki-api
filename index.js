@@ -167,8 +167,11 @@ address:'https://ethereum.org/en/developers/docs/oracles/',
 address:'https://ethereum.org/en/developers/docs/mev/',
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 1255d945524cb93bab67c728a827ce1ad30e8260
 ]
 const Format = []
 blockchains.forEach(blockchain => {
